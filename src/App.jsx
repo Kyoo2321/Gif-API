@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className="App">
-      <h2>Gifs Expert App</h2>
+      <h2>Buscar Gifs</h2>
       <AddCategory setCategory={setCategory} />
       <DisplayGifs category={category} />
     </div>
